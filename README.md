@@ -22,3 +22,6 @@ https://hi-during-hover.netlify.app/
 
 https://flexbox-example-with-chess-figure-exchange-on-hover.netlify.app/
 
+### A small example of React (only input & click) you can find here:
+
+https://github.com/Marianna-Ing/react-example-app
