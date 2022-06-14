@@ -25,3 +25,7 @@ https://flexbox-example-with-chess-figure-exchange-on-hover.netlify.app/
 <!--- ### A small example of React (only input & click) you can find here: --->
 
 <!--- https://github.com/Marianna-Ing/react-example-app --->
+
+### This is my own idea of an example of animation:
+
+https://marianna-ing.github.io/colourfull-word-animation/
