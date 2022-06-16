@@ -6,9 +6,7 @@
 
 ## My first projects 2021 in Web-Development:
 
-- This is my own final project of trial course by DCI with own Idea
-
-https://eigene-idee-mtranslateservice.netlify.app/index.html
+- [This is my own final project of trial course by DCI with own Idea](https://eigene-idee-mtranslateservice.netlify.app/index.html)
 
 - It's my first portfolio-web-site as result of 3 months html and css courses' by DCI
 
