@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Marianna-Ing
 - 👀 I’m interested in many different things
 - 🌱 I’m currently learning Web-Development
-- 💞️ I’m looking to collaborate on company for intership or job in the Hannover–Braunschweig–Wolfsburg Metropolitan Region
+- 💞️ I’m looking to collaborate on company for intership or job in the $\color{#006400}{{\rm Hannover–Braunschweig–Wolfsburg}}$ $\color{#006400}{{\rm Metropolitan }}$ $\color{#006400}{{\rm Region}}$
 - 📫 How to reach me: it's coming soon...
 
+ 
 ## `My first projects 2021 in Web-Development:`
 
 - [This is my own final project of trial course by DCI with own Idea](https://eigene-idee-mtranslateservice.netlify.app/index.html)
@@ -22,6 +23,8 @@
 
 <!--- https://github.com/Marianna-Ing/react-example-app --->
 
+
 ### `This is my own idea of an example of animation only html & css:`
 
 * [Marianna](https://marianna-ing.github.io/colourfull-word-animation/)
+
