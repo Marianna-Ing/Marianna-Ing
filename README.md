@@ -26,5 +26,7 @@
 
 ### `This is my own idea of an example of animation only html & css:`
 
-* [Marianna](https://marianna-ing.github.io/colourfull-word-animation/)
+- [Marianna](https://marianna-ing.github.io/colourfull-word-animation/)
 
+### `Here is example of forms switch, that with React done:`
+  - [forms switsch](http://192.168.0.5:3000/)
