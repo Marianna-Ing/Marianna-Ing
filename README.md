@@ -28,5 +28,5 @@
 
 - [Marianna](https://marianna-ing.github.io/colourfull-word-animation/)
 
-### `Here is example of forms switch, that with React was done:`
-  - [forms switch](http://192.168.0.5:3000/)
+<!--- ### `Here is example of forms switch, that with React was done:`
+  - [forms switch](http://192.168.0.5:3000/) --->
