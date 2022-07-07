@@ -7,13 +7,14 @@
  
 ## `My first projects 2021 in Web-Development:`
 
-- [This is my own final project of trial course by DCI with own Idea](https://eigene-idee-mtranslateservice.netlify.app/index.html)
+ - [Projects](https://marianna-ing.github.io/examples/)
 
-- [It's my first portfolio-web-site as result of 3 months html and css courses' by DCI](https://first-portfolio-site-marianna.netlify.app/#home)
+<!--- [This is my own final project of trial course by DCI with own Idea](https://eigene-idee-mtranslateservice.netlify.app/index.html) --->
+
+<!--- [It's my first portfolio-web-site as result of 3 months html and css courses' by DCI](https://first-portfolio-site-marianna.netlify.app/#home) --->
 
   ### It's a part of tasks at the beginning of learning by DCI in 2021 in chronologic order:
-  - [example](https://marianna-ing.github.io/examples/)
-
+ 
   - [forms only html and css](https://forms-only-html-and-css.netlify.app/)
 
   - [hi during hover](https://hi-during-hover.netlify.app/)
