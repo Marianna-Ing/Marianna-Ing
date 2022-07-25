@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marianna-Ing
 - 👀 I’m interested in many different things
-- 🌱 I’m currently learning Web-Development
-- 💞️ I’m looking to collaborate on company for intership or job in the $\color{#006400}{{\rm Hannover–Braunschweig–Wolfsburg}}$ $\color{#006400}{{\rm Metropolitan }}$ $\color{#006400}{{\rm Region}}$
+- 🌱 I’m currently completed further education in Web-Development
+- 💞️ I’m looking to collaborate on company for a job in the $\color{#006400}{{\rm Hannover–Braunschweig–Wolfsburg}}$ $\color{#006400}{{\rm Metropolitan }}$ $\color{#006400}{{\rm Region}}$
 - 📫 How to reach me: it's coming soon...
 
  
