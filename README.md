@@ -30,6 +30,7 @@
 
 - [Marianna](https://marianna-ing.github.io/colourfull-word-animation/)
 - [Pine-Tree](https://marianna-ing.github.io/NewYear/)
+- [Weather-Brunswick](https://marianna-ing.github.io/Weather/)
 
 <!--- ### `Here is example of forms switch, that with React was done:`
   - [forms switch](http://192.168.0.5:3000/) --->
