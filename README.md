@@ -35,6 +35,6 @@
 <!--- ### `Here is example of forms switch, that with React was done:`
   - [forms switch](http://192.168.0.5:3000/) --->
 
-### 'Can you guess which a 6 numbers from 1 to 49 will be appear hier?'
+### `Can you guess which a 6 numbers from 1 to 49 will be appear hier?`
 
-- [Random numbers per cklick](https://marianna-ing.github.io/lottostart/)
+- [Random numbers per cklick(hier was use js)](https://marianna-ing.github.io/lottostart/)
